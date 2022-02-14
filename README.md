@@ -6,11 +6,9 @@
 
 📥 <a href="https://github.com/H0rn3t-Sp1d3rs/All-Hacker/blob/main/AnonHackbar_v.1.4.apk?raw=true">Download</a> the Anon Hackber.
 <br>
-<br>
-<hr>
 <h2>Dh Hackber</h2>
 <br>
-📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases">Download</a> the latest version from releases.
+📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases/download/v1.1/Latest.apk">Download</a> the Dh Hackber.
 <br>
 
 

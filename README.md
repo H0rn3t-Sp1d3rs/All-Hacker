@@ -8,11 +8,13 @@
 <br>
 <h2>Dh Hackber</h2>
 <br>
+<br>
 📥 <a href="https://github.com/darknethaxor/DH-HackBar/releases/download/v1.1/Latest.apk">Download</a> the Dh Hackber.
 <br>
-<h2>Ando Hackber</h2>
 <br>
-📥 <a href="https://m.apkpure.com/andro-hackbar/zyberph.hackbar.zk/download?from=details">Download</a> the Dh Hackber.
+<h2>Andro Hackber</h2>
+<br>
+📥 <a href="https://m.apkpure.com/andro-hackbar/zyberph.hackbar.zk/download?from=details">Download</a> the Andro Hackber.
 <br>
 
 <br>

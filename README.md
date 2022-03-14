@@ -11,9 +11,8 @@
 <br>
 <br>
 <h2>Andro Hackber</h2>
-📥 <a href="https://github.com/H0rn3t-Sp1d3rs/All-Hacker/blob/main/Andro%20Hackbar.apk">Download</a> the Andro Hackber.
+📥 <a href="https://github.com/H0rn3t-Sp1d3rs/All-Hacker/blob/main/Andro%20Hackbar.apk?raw=true">Download</a> the Andro Hackber.
 <br>
-
 <br>
 <br>
 <br>
